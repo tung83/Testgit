@@ -17,4 +17,5 @@ tung hoc 1
 tung hoc 1
 
 tung local 1
-tet
+tet 
+server 2
